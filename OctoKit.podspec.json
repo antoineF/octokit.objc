@@ -8,7 +8,7 @@
     "GitHub": "support@github.com"
   },
   "source": {
-    "git": "https://github.com/octokit/octokit.objc.git",
+    "git": "https://github.com/antoineF/octokit.objc",
     "tag": "0.5"
   },
   "source_files": "OctoKit",

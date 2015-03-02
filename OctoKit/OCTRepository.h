@@ -98,6 +98,5 @@
 /// Note that this is only populated on calls to
 /// -[OCTClient fetchRepositoryWithName:owner:].
 @property (nonatomic, copy, readonly) OCTRepository *forkSource;
->> >> >> > 1a6667f61391f0c6aee2b2a46f2a94b80787d61a
 
 @end
